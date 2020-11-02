@@ -1,0 +1,2 @@
+logo.png used in the default and hover state of the components. And download.png, printer.png and delete.png are used in the hover
+state of the menu sub items.
